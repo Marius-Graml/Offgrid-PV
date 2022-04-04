@@ -16,7 +16,9 @@ the aim of this project is to measure current and voltage of a 700 Wp solar pane
 </br>
 <h2>Sensors:</h2>
 For measuring current and voltage, different sensors and microcontrollers are used. 
- - [ACS758](https://www.digikey.de/de/datasheets/allegromicrosystemsllc/allegro-microsystems-llcacs758datasheetashx)-> current measurement 
+ - 
+<a href="url">https://www.digikey.de/de/datasheets/allegromicrosystemsllc/allegro-microsystems-llcacs758datasheetashx ACS758</a>
+[ACS758](https://www.digikey.de/de/datasheets/allegromicrosystemsllc/allegro-microsystems-llcacs758datasheetashx)-> current measurement 
   -  [ADS1115](https://www.ti.com/lit/ds/symlink/ads1114.pdf?ts=1648959763893&ref_url=https%253A%252F%252Fwww.google.com%252F)-> external ADC to measure output voltage of ACS758 
   -  [ESP32](https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf)-> internal ADC to measure voltage of batteries via voltage dividers 
 <p><img align="left" src="https://github.com/Marius-Graml/Offgrid-PV/blob/main/pictures/ESP32_on_platine.jpg" width="320" height="320"</p>
@@ -36,5 +38,5 @@ For measuring current and voltage, different sensors and microcontrollers are us
 </br>
 
 <h2>Infrastructure:</h2>
-The data is stored into a MongoDB database by using AWS and a Raspberry Pi as "data pipeline". Finally, the data is callable from the database via a Python script. The whole infrastructure of this concept can be seen here:
+The data is stored into a MongoDB database by using AWS and a Raspberry Pi as "database pipeline". Finally, the data is callable from the database via a Python script. The whole infrastructure of this concept can be seen here:
 <p><img align="left" src="https://github.com/Marius-Graml/Offgrid-PV/blob/main/pictures/concept_of_measurement.jpg" width="750" height="450"</p>
