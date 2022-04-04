@@ -35,6 +35,6 @@ For measuring current and voltage, different sensors and microcontrollers are us
 </br>
 </br>
 
-<h2>Infrastructure</h2>
+<h2>Infrastructure:</h2>
 The data is stored into a MongoDB database by using AWS and a Raspberry Pi as "data pipeline". Finally, the data is callable from the database via a Python script. The whole infrastructure of this concept can be seen here:
 <p><img align="left" src="https://github.com/Marius-Graml/Offgrid-PV/blob/main/pictures/concept_of_measurement.jpg" width="750" height="450"</p>
