@@ -15,6 +15,6 @@ the aim of this project is to measure current and voltage of a 700 Wp solar pane
 </br>
 </br>
 For measuring current and voltage different sensors and microcontrollers are used. The data is stored into a MongoDB database by using AWS and a Raspberry Pi as "data pipeline". Finally, the data is callable from the database via a Python script. The whole infrastructure of this concept can be seen here:
-<p><img align="left" src="https://github.com/Marius-Graml/Offgrid-PV/blob/main/pictures/concept_of_measurement.jpg" width="700" height="550"</p>
+<p><img align="center" src="https://github.com/Marius-Graml/Offgrid-PV/blob/main/pictures/concept_of_measurement.jpg" width="750" height="550"</p>
 
 <p><img align="left" src="https://github.com/Marius-Graml/Offgrid-PV/blob/main/pictures/ESP32_on_platine.jpg" width="320" height="320"</p>
