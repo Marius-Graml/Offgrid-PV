@@ -14,8 +14,6 @@ the aim of this project is to measure current and voltage of a 700 Wp solar pane
 </br>
 </br>
 </br>
-</br>
-</br>
 The data is stored into a MongoDB database by using AWS and a Raspberry Pi as "data pipeline". 
 
 <p><img align="left" src="https://github.com/Marius-Graml/Offgrid-PV/blob/main/pictures/ESP32_on_platine.jpg" width="320" height="320"</p>
