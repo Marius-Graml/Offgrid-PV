@@ -1,2 +1,2 @@
-# offgridpv
-monitoring my off-grid photovoltaik system
+# Offgrid-PV
+Monitoring my off-grid photovoltaik system
