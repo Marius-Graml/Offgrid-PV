@@ -15,7 +15,7 @@ the aim of this project is to measure current and voltage of a 700 Wp solar pane
 </br>
 </br>
 <h2>Sensors:</h2>
-For measuring current and voltage, different sensors and microcontrollers are used. 
+For measuring current and voltage, different sensors and microcontrollers are used. </br>
  - <a href="https://www.digikey.de/de/datasheets/allegromicrosystemsllc/allegro-microsystems-llcacs758datasheetashx"> ACS758</a> -> current measurement </br>
  - <a href="https://www.ti.com/lit/ds/symlink/ads1114.pdf?ts=1648959763893&ref_url=https%253A%252F%252Fwww.google.com%252F"> ACS758</a> -> current measurement -> external ADC to measure output voltage of ACS758 </br>
 - <a href="https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf"> ACS758</a> -> current measurement -> internal ADC to measure voltage of batteries via voltage dividers </br>
