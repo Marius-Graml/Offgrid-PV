@@ -1,7 +1,7 @@
 # Off-grid PV
 <h2>Monitoring my off-grid photovoltaic system</h2>
 
-The aim of this project is to measure current and voltage of a 700 Wp solar panel continously. The technical strucutre is shown below:
+The aim of this project is to measure current and voltage of a 700 Wp solar panel continously. The technical structure is shown below:
 <p><img align="left" src="https://github.com/Marius-Graml/Offgrid-PV/blob/main/pictures/solar_panel.jpg" width="180" height="160"</p>
 <p><img align="left" src="https://github.com/Marius-Graml/Offgrid-PV/blob/main/pictures/charge_controller.jpg" width="180" height="160"</p>
 <p><img align="left" src="https://github.com/Marius-Graml/Offgrid-PV/blob/main/pictures/batteries.jpg" width="180" height="160"</p>
